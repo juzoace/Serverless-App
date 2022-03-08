@@ -6,14 +6,14 @@
 
 🎉 Below are some of main feature of the 
 
-==> AWS Serverless
-==> CloudFormation
-==> DynamoDB for data storage
-==> Error handling using custom middlewares (@middy/core)
-==> Amazon S3 for object storage
-==> AWS SQS Message Queue 
-==> User Aunthentication
-==> Amazon SES for email notification service
+# AWS Serverless
+# CloudFormation
+# DynamoDB for data storage
+# Error handling using custom middlewares (@middy/core)
+# Amazon S3 for object storage
+# AWS SQS Message Queue 
+# User Aunthentication
+# Amazon SES for email notification service
 
 # APPLICATION REQUIREMENTS
 
